@@ -1,0 +1,2 @@
+This folder contains the cropped parts of the frame itself, in which there are different objects.
+From this folder we select the cropped images (ones containing the Buses) as completely new images, to further detect the writing in them.
